@@ -10,6 +10,7 @@
 #   If set manually, this will force the use of a specific SDK version
 
 # PPSSPP platform flags
+set(GOLD YES)
 set(MOBILE_DEVICE ON)
 set(USING_GLES2 ON)
 set(IPHONEOS_DEPLOYMENT_TARGET 6.0)
